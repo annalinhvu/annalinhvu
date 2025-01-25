@@ -4,9 +4,9 @@
 
 🌱 I'm always eager to learn and grow, whether it’s optimizing data workflows, exploring new technologies, or finding creative ways to turn data into meaningful insights.
 
-💞️ I’d love to collaborate on projects related to data automation, visualization, and analytics. Beyond data, I enjoy photography, films, volunteering, and giving back to my community.
+💞️ Beyond data, I enjoy photography, films, volunteering, and giving back to my community.
 
-📫 Let’s connect! You can reach me via LinkedIn or at linh.h.vu@vanderbilt.edu.
+📫 Let’s connect! You can reach me via LinkedIn at https://www.linkedin.com/in/linh-vu-251099/.
 
 <!---
 annalinhvu/annalinhvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
