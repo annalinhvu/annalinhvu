@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @annalinhvu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Anna (@annalinhvu), currently working as a Senior BI Engineer and pursuing a master degree at UPenn part-time. I also graduated from Vanderbilt with a bachelor's degree in Economics.
+👀 I’m passionate about all things data—engineering, manipulation, optimization, and visualization. With a foundation in SQL, Python, Tableau, and ETL processes, I’m now diving into Java to deepen my technical skills. I also have extensive experience in marketing analytics and consumer insights.
+🌱 I'm always eager to learn and grow, whether it’s optimizing data workflows, exploring new technologies, or finding creative ways to turn data into meaningful insights.
+💞️ I’d love to collaborate on projects related to data automation, visualization, and analytics. Beyond data, I enjoy photography, films, volunteering, and giving back to my community.
+📫 Let’s connect! You can reach me via LinkedIn or at linh.h.vu@vanderbilt.edu
 
 <!---
 annalinhvu/annalinhvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
