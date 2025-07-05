@@ -1,4 +1,4 @@
-👋 Hi, I’m Anna (@annalinhvu), currently working as a Senior BI Engineer and pursuing a master degree at UPenn part-time. I also graduated from Vanderbilt with a bachelor's degree in Economics.
+👋 Hi, I’m Anna (@annalinhvu), currently working as a Senior Business Intelligence Engineer and pursuing a master degree at UPenn part-time. I also graduated from Vanderbilt with a bachelor's degree in Economics.
 
 👀 I’m passionate about all things data—engineering, manipulation, optimization, and visualization. With a foundation in SQL, Python, Tableau, and ETL processes, I’m now diving into Java to deepen my technical skills. I also have extensive experience in marketing analytics and consumer insights.
 
