@@ -1,14 +1,53 @@
-👋 Hi, I’m Anna (@annalinhvu), currently working as a Senior Data Engineer and pursuing a master degree at UPenn part-time. I also graduated from Vanderbilt with a bachelor's degree in Economics.
+Hi, I’m Anna (@annalinhvu)
 
-👀 I’m passionate about all things data—engineering, manipulation, optimization, and visualization. With a foundation in SQL, Python, Tableau, and ETL processes, I’m now diving into Java to deepen my technical skills. I also have extensive experience in marketing analytics and consumer insights.
+I’m a **Senior Data Engineer based in New York**, building scalable data pipelines, analytics systems, and reporting infrastructure that help teams make better decisions from complex datasets.
 
-🌱 I'm always eager to learn and grow, whether it’s optimizing data workflows, exploring new technologies, or finding creative ways to turn data into meaningful insights.
+I currently work at a growth marketing technology company designing end-to-end data systems—from ingestion and transformation to modeling and visualization—for enterprise clients managing **billions in marketing spend**.
 
-💞️ Beyond data, I enjoy photography, films, volunteering, and giving back to my community.
+Alongside my work, I’m pursuing a **Master’s degree in Computer and Information Technology at the University of Pennsylvania (UPenn MCIT)** to deepen my foundation in computer systems and software engineering.
 
-📫 Let’s connect! You can reach me via LinkedIn at https://www.linkedin.com/in/linh-vu-251099/.
+---
 
-<!---
-annalinhvu/annalinhvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I work on
+- Designing **scalable ETL pipelines** using Python, SQL, and cloud data platforms  
+- Building **data warehouses and analytics layers** in Snowflake and BigQuery  
+- Creating **reliable data models and dashboards** used by marketing and business teams  
+- Integrating **APIs and external platforms** into unified reporting systems  
+- Turning messy datasets into **clean, trusted sources of truth**
+
+---
+
+### Tech stack
+**Languages:**  
+SQL · Python · Java · JavaScript  
+
+**Data & Infrastructure:**  
+Snowflake · BigQuery · AWS S3 · Matillion · REST APIs · ETL Pipelines  
+
+**Analytics & Visualization:**  
+Tableau · Looker · Domo · Google Sheets  
+
+---
+
+### Currently learning
+- Java and computer systems through the **UPenn MCIT program**
+- Data infrastructure design patterns
+- Scalable backend and data systems
+
+---
+
+### Outside of tech
+Originally from **Hanoi, Vietnam**, I enjoy combining technical work with creative interests like:
+
+- Photography and film
+- Visual storytelling
+- Volunteering in the community
+
+---
+
+### Connect with me
+LinkedIn:  
+https://www.linkedin.com/in/linh-vu-251099/
+
+Portfolio:  
+https://annalinhvu.github.io/portfolio
