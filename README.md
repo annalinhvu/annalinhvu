@@ -2,7 +2,7 @@
 
 📍 New York, NY  
 💼 Senior Data Engineer  
-🎓 MCIT @ University of Pennsylvania | Economics @ Vanderbilt
+🎓 Master of Applied Science in Computer Science @ University of Pennsylvania | Bachelor of Arts in Economics @ Vanderbilt University
 
 I build **scalable data pipelines, analytics systems, and reporting infrastructure** that turn messy datasets into reliable sources of truth.
 
