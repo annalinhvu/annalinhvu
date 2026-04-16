@@ -40,7 +40,7 @@ Originally from **Hanoi, Vietnam 🇻🇳**, I enjoy combining technical work wi
 ### 🌐 Connect with me
 
 🔗 Portfolio  
-https://annalinhvu.github.io/portfolio
+https://annalinhvu.github.io/
 
 💼 LinkedIn  
 https://www.linkedin.com/in/linh-vu-251099/
