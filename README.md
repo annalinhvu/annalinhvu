@@ -1,8 +1,9 @@
 ## Hi, I’m Anna (@annalinhvu) 👋
 
 📍 New York, NY  
-💼 Senior Data Engineer  
-🎓 Master of Applied Science in Computer Science @ University of Pennsylvania | Bachelor of Arts in Economics @ Vanderbilt University
+💼 Lead Data Engineer  
+🎓 Master of Applied Science in Computer Science @ University of Pennsylvania 
+🎓 Bachelor of Arts in Economics & Cinema Studies @ Vanderbilt University
 
 I build scalable data pipelines, analytics systems, and reporting infrastructure that turn messy datasets into reliable sources of truth. At my current role, I design end-to-end data systems—from ingestion and transformation to modeling and visualization—for enterprise clients managing billions in marketing spend.
 
