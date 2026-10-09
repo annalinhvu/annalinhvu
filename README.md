@@ -1,47 +1,58 @@
-## Hi, I’m Anna (@annalinhvu) 👋
+## Hi, I'm Anna (Linh)! 👋
 
-📍 New York, NY  
-💼 Lead Data Engineer  
-🎓 Master of Applied Science in Computer Science @ University of Pennsylvania 
-🎓 Bachelor of Arts in Economics & Cinema Studies @ Vanderbilt University
+📍 New York City | Originally from Hanoi, Vietnam 🇻🇳  
+💼 Principal Data Engineer  
+🎓 M.A.S. in Computer Science, University of Pennsylvania (in progress)  
+🎓 B.A. in Economics & Cinema Studies, Vanderbilt University
 
-I build scalable data pipelines, analytics systems, and reporting infrastructure that turn messy datasets into reliable sources of truth. At my current role, I design end-to-end data systems—from ingestion and transformation to modeling and visualization—for enterprise clients managing billions in marketing spend.
+I'm a data engineer working at the intersection of data engineering,
+analytics, and automation. Most of my work involves building data
+pipelines, connecting platforms, and making messy data more reliable
+and useful. I've worked on data infrastructure supporting billions
+in annual marketing spend, from ingestion and transformation to
+analytics and reporting.
+
+Outside of work, I'm studying computer science at Penn and building
+small projects around things I love: cinema, film photography,
+Vietnamese food, exploring NYC, and traveling.
+
+I like projects that are practical, a little creative, and solve
+problems I've run into myself.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Things I work with
 
 **Languages**  
-SQL • Python • Java • JavaScript • HTML • CSS  
+SQL · Python · Java · JavaScript · HTML · CSS
 
-**Data Engineering & Infrastructure**  
-Snowflake • BigQuery • AWS S3 • Matillion • REST APIs • sFTP • ETL Pipelines  
+**Data Engineering & Cloud**  
+Snowflake · BigQuery · AWS (S3, Lambda, Amplify) · Matillion · REST APIs · ETL/ELT
 
 **Analytics & Visualization**  
-Tableau • Looker • Domo • Google Sheets • Looker Studio  
+Tableau · Looker · Looker Studio · Domo · Google Analytics 4
 
-**Tools & Workflow**  
-Git • Jupyter Notebook • PyCharm • VSCode • Postman • Jira • Confluence  
-
-**Marketing & Analytics Platforms**  
-Google Analytics 4 • Campaign Manager 360 • Google Ads • Facebook Ads • TikTok Ads • Amazon Ads
+**Tools**  
+Git · Jupyter · VS Code · Postman · Jira · Confluence
 
 ---
 
-### 🎞️ Outside of Tech
+### A little more about me
 
-Originally from **Hanoi, Vietnam 🇻🇳**, I enjoy combining technical work with creative pursuits:
+I'm originally from Hanoi and have called New York home for
+the past several years.
 
-📷 Photography  
-🎬 Film & visual storytelling  
-🤝 Volunteering in my community  
+Before getting into data engineering, I studied economics and
+cinema at Vanderbilt. I still love film, photography, and visual
+storytelling, and I volunteer with local arts and community
+organizations whenever I can.
+
+I also have a habit of turning my interests into little websites
+and databases, which is how most of my personal projects begin.
 
 ---
 
-### 🌐 Connect with me
+### Find me elsewhere
 
-🔗 Portfolio  
-https://annalinhvu.github.io/
-
-💼 LinkedIn  
-https://www.linkedin.com/in/linh-vu-251099/
+🌐 [Portfolio](https://annalinhvu.github.io/)  
+💼 [LinkedIn](https://www.linkedin.com/in/linh-vu-251099/)
