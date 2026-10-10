@@ -2,7 +2,7 @@
 
 📍 New York City | Originally from Hanoi, Vietnam 🇻🇳  
 💼 Principal Data Engineer  
-🎓 M.A.S. in Computer Science, University of Pennsylvania (in progress)  
+🎓 M.A.Sc. in Computer Science, University of Pennsylvania (in progress)  
 🎓 B.A. in Economics & Cinema Studies, Vanderbilt University
 
 I'm a data engineer working at the intersection of data engineering,
