@@ -12,7 +12,7 @@ and useful. I've worked on data infrastructure supporting billions
 in annual marketing spend, from ingestion and transformation to
 analytics and reporting.
 
-Outside of work, I'm studying computer science at Penn and building
+Outside of work, I'm studying computer science at UPenn and building
 small projects around things I love: cinema, film photography,
 Vietnamese food, exploring NYC, and traveling.
 
